@@ -12,7 +12,8 @@
         "ee-syuen": "Ee Syuen",
         "roger-lim-bo-zu": "Roger Lim Bo Zu",
         "tey-yee-siang": "Tey Yee Siang",
-        "james-doe": "James Doe"
+        "james-doe": "James Doe",
+        "denise-goh": "Denise Goh"
       },
       "headingKeywords": {}
     },
@@ -134,6 +135,11 @@
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
       },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/denisegoh.md",
+      "headings": {},
       "headingKeywords": {}
     },
     {
