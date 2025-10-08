@@ -130,9 +130,9 @@
     },
     {
       "src": "index.md",
-      "title": "Tuto",
+      "title": "",
       "headings": {
-        "tuto": "Tuto"
+        "addressbook-level-3": "AddressBook Level-3"
       },
       "headingKeywords": {}
     },
