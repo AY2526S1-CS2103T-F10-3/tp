@@ -21,21 +21,32 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 * Role: Project Advisor
 
-### Jane Doe
+### Chong Yi Jie
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/yijiechong13.png" width="200px">
 
-[[github](http://github.com/meowzz28)]
+[[github](http://github.com/yijiechong13)]
 [[portfolio](team/johndoe.md)]
 
-* Role: Team Lead
+* Role: Developer
+* Responsibilities: Documentation
+
+### Ee Syuen
+
+<img src="images/eesyuen09.png" width="200px">
+
+[[github](http://github.com/eesyuen09)] 
+[[portfolio](team/johndoe.md)]
+
+* Role: Developer
 * Responsibilities: UI
 
 ### Roger Lim Bo Zu
 
 <img src="images/meowzz28.png" width="200px">
 
-[[github](http://github.com/meowzz28)] [[portfolio](team/johndoe.md)]
+[[github](http://github.com/meowzz28)] 
+[[portfolio](team/johndoe.md)]
 
 * Role: Developer
 * Responsibilities: Integration
@@ -50,12 +61,12 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Developer
 * Responsibilities: Coding & documentation
 
-### James Doe
+### Denise Goh
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/deniseegohh.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](https://github.com/deniseegohh)]
+[[portfolio](team/denisegoh.md)]
 
 * Role: Developer
-* Responsibilities: UI
+* Responsibilities: Testing
