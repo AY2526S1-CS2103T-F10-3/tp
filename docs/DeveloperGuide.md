@@ -320,6 +320,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
       Use case resumes at step 2.
 
 **Use case: UC-ATT-01 Mark attendance for a student**
+
 **Preconditions** 
 1. The student exists in the system. 
 
@@ -342,10 +343,11 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
     Use case ends.
 
 **Use case: UC-ATT-02 Unmark attendance for a student**
+
 **Preconditions**
 1. The student exists in the system.
 
-*MSS*
+**MSS**
 1. User chooses unmark attendance of a student using the student ID and date. 
 2. System records the attendance as absent for the specified student and date. 
 3. System confirms that the attendance has been updated.
