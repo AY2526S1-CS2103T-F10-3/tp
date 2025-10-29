@@ -120,7 +120,6 @@
         "4-locating-students-by-name-find": "4. Locating students by name: find",
         "5-deleting-a-person-delete": "5. Deleting a Person: delete",
         "6-clearing-all-entries-clear": "6. Clearing all entries : clear",
-        "format-clear": "Format: clear",
         "class-tag-management": "Class Tag Management",
         "1-adding-a-class-tag-tag-a": "1. Adding a class tag : tag -a",
         "2-deleting-a-class-tag-tag-d": "2. Deleting a class tag : tag -d",
