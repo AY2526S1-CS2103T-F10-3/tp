@@ -51,6 +51,7 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
+        "student-management": "Student Management",
         "attendance-management": "Attendance Management",
         "classtag-management": "ClassTag Management",
         "activty-diagram-editing-student-classtags": "Activty Diagram: Editing Student ClassTags",
@@ -65,7 +66,7 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
+        "managing-students": "Managing Students",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
