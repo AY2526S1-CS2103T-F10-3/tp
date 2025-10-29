@@ -53,6 +53,7 @@
         "implementation": "Implementation",
         "student-management": "Student Management",
         "attendance-management": "Attendance Management",
+        "performance-notes-management": "Performance Notes Management",
         "classtag-management": "ClassTag Management",
         "planned-enhancements": "Planned Enhancements",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
