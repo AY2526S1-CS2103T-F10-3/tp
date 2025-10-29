@@ -53,7 +53,7 @@
         "implementation": "Implementation",
         "student-management": "Student Management",
         "attendance-management": "Attendance Management",
-        "performance-notes-management": "Performance Notes Management",
+        "performance-management": "Performance Management",
         "classtag-management": "ClassTag Management",
         "fee-management": "Fee Management",
         "planned-enhancements": "Planned Enhancements",
@@ -70,6 +70,7 @@
         "launch-and-shutdown": "Launch and shutdown",
         "managing-students": "Managing Students",
         "managing-class-tags": "Managing Class Tags",
+        "managing-performance-notes": "Managing Performance Notes",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
