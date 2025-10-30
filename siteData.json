@@ -43,6 +43,7 @@
       "headings": {
         "tuto-developer-guide": "Tuto Developer Guide",
         "acknowledgements": "Acknowledgements",
+        "we-follow-the-project-design-and-documentation-structure-of-the-addressbook-level3-project-by-se-edu-in-addition-the-structure-and-certain-sections-of-this-developer-guide-were-inspired-by-and-adapted-from-a-team-project-developed-by-a-previous-cohort": "We follow the project design and documentation structure of the AddressBook-Level3 project by SE-EDU.\nIn addition, the structure and certain sections of this Developer Guide were inspired by and adapted from a team project developed by a previous cohort.",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
         "architecture": "Architecture",
